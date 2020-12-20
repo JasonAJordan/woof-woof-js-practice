@@ -9,8 +9,9 @@
     {
       "id": 2,
       "name": "Nugget",
-      "isGoodDog": false,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg",
+      "good": true
     },
     {
       "id": 3,
